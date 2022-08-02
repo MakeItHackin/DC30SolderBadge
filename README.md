@@ -1,6 +1,15 @@
 # DEF CON 30 - Learn to Solder Badge and SAO
 
+## PURCHASE A KIT:
+https://www.tindie.com/products/27515/
+
 NOTE: Pickup only at DEF CON 30. There will be two times a day when I will meet for pick-up at the conference. Times and locations to be announced. If there is inventory leftover after DEF CON, I will enable shipping.
+
+## YOUTUBE TUTORIAL / DEMONSTRATION: 
+Will be uploaded soon
+
+## INSTRUCTIONS:  
+Download and read the "LearnToSolderBadge_Instructions" document to follow along with the YouTube Tutorial.  
 
 This 'Learn How to Solder Badge' is inspired by the Letterman patches found on high school jackets, to keep in theme with the DEF CON 30 "Homecoming" theme this year.  It is a DIY kit and does not come assembled.  You will require a soldering iron, solder, and flush cutters to assemble this kit.  A YouTube demonstration will be available for follow-along and I highly encourage you to watch the video BEFORE assembling.
 
@@ -14,3 +23,29 @@ The two SAO ports are meant for low-power SAOs only.  Since the badge is powered
 
 Kit Includes:  
 Circuit Board, Lanyard, LEDs (Red, Yellow, Blue, Green), Transistors, Capacitors, Resistors, Voltage Regulator, SAO Connectors, SAO Kit, Diode, Switch, Button, Battery Holders, Batteries, DEF CON 30 Homecoming Stickers
+
+## TOOLS AND MATERIALS:  
+The only required tools in this tutorial are: a Soldering Iron, Solder, and Flush Cutters.  
+Optional tools include: Fume Extractor, Brass Sponge, Soldering Mat, Desoldering Wick and Pump, Electrical Tape, Tip Tinner, Flux, Pliers, and a Multimeter.  
+
+SOLDERING IRONS:  (affiliate links below help me produce content)  
+Weller WE1010NA (Recommended for home/office use):  https://amzn.to/3OGO5ED  
+HAKKO FX888D (Recommended for home/office use):  https://amzn.to/3RbGFLa  
+TS100 (Recommended for portability):  https://amzn.to/3NHQ7Tm  
+Cheap Soldering Iron Kit (Only recommended if you cannot afford one of the above soldering irons.  You get what you pay for):  https://amzn.to/3OYEt8p  
+
+Delcast Solder Dispenser with 63/37 Solder:  https://amzn.to/3R9VOwf  
+Flush Cutters:  https://amzn.to/3OYEIQR  
+
+OPTIONAL TOOLS, but great to have!:  
+Fluke 107 Multimeter (Expensive, but worth it):  https://amzn.to/3urAMj5  
+Cheap Multimeter (Crenova MS8233D, perfectly fine to use):  https://amzn.to/3un19GS  
+Fume Extractor:  https://amzn.to/3nDKtr6  
+Weller Soldering Brass Sponge:  https://amzn.to/3nEytWg  
+Black Silicone Soldering Mat:  https://amzn.to/3uoYxIv  
+Desoldering Wick and Pump:  https://amzn.to/3AocLNG  
+Electrical Tape:  https://amzn.to/3uk3m5N  
+Tip Tinner:  https://amzn.to/3OYA98w  
+Flux:  https://amzn.to/3RdCsqq  
+Wire Strippers:  https://amzn.to/3abFydB  
+Pliers:  https://amzn.to/3bIQC2l  
