@@ -1,6 +1,5 @@
 # DEF CON 30 - Learn to Solder Badge and SAO
 
-#### What is it?
 NOTE: Pickup only at DEF CON 30. There will be two times a day when I will meet for pick-up at the conference. Times and locations to be announced. If there is inventory leftover after DEF CON, I will enable shipping.
 
 This 'Learn How to Solder Badge' is inspired by the Letterman patches found on high school jackets, to keep in theme with the DEF CON 30 "Homecoming" theme this year.  It is a DIY kit and does not come assembled.  You will require a soldering iron, solder, and flush cutters to assemble this kit.  A YouTube demonstration will be available for follow-along and I highly encourage you to watch the video BEFORE assembling.
