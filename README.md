@@ -6,7 +6,7 @@ https://www.tindie.com/products/27515/
 NOTE: Pickup only at DEF CON 30. There will be two times a day when I will meet for pick-up at the conference. Times and locations to be announced. If there is inventory leftover after DEF CON, I will enable shipping.
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
-Will be uploaded soon
+https://youtu.be/yRB6n9lTvRc
 
 ## INSTRUCTIONS:  
 Will be uploaded soon along with the YouTube Tutorial.  
