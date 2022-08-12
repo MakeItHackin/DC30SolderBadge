@@ -9,7 +9,7 @@ NOTE: Pickup only at DEF CON 30. There will be two times a day when I will meet 
 https://youtu.be/yRB6n9lTvRc
 
 ## INSTRUCTIONS:  
-Will be uploaded soon along with the YouTube Tutorial.  
+Download the attached PDF for instructions.  Please watch YouTube video tutorial.  
 
 ## DESCRIPTION:  
 This 'Learn How to Solder Badge' is inspired by the Letterman patches found on high school jackets, to keep in theme with the DEF CON 30 "Homecoming" theme this year.  It is a DIY kit and does not come assembled.  You will require a soldering iron, solder, and flush cutters to assemble this kit.  A YouTube demonstration will be available for follow-along and I highly encourage you to watch the video BEFORE assembling.
