@@ -6,8 +6,8 @@ https://www.tindie.com/products/27515/
 NOTE: Pickup only at DEF CON 30. There will be two times a day when I will meet for pick-up at the conference. Times and locations to be announced. If there is inventory leftover after DEF CON, I will enable shipping.
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
-https://youtu.be/yRB6n9lTvRc
-(Note: I had to remove the mini Jack SAO from all of my kits due to licensing issues)
+https://youtu.be/yRB6n9lTvRc  
+(Note: I had to remove the mini Jack SAO from all of my kits due to licensing issues.  I apologize for the inconvenience)
 
 ## INSTRUCTIONS:  
 Download the attached PDF for instructions.  Please watch YouTube video tutorial.  
